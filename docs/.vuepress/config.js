@@ -33,7 +33,7 @@ module.exports = {
         link: '/'
       },
       {
-        text: '文档',
+        text: '笔记',
         link: '/frontend/'
       },
       {
@@ -51,14 +51,7 @@ module.exports = {
       ],
       '/gossip/': getSidebar('gossip'),
       '/note/': getSidebar('note')
-    }/* ,
+    },
     lastUpdated: '上次更新时间',
-    // 一些github的配置
-    repo: 'snpdcfg/blog',
-    repoLabel: 'Github',
-    docsDir: 'docs',
-    docsBranch: 'master',
-    editLinks: true,
-    editLinkText: 'Edit' */
   }
 }
