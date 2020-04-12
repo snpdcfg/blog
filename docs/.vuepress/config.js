@@ -17,7 +17,7 @@ function getSidebar (dir) {
 module.exports = {
   base: '/blog/',
   logo: '/assets/img/logo.jpg',
-  title: 'Snpdcfg',
+  title: 'pastSeagull',
   description: 'Fooly Cooly',
   markdown: {
     extractHeaders: ['h2', 'h3', 'h4', 'h5']

@@ -1,11 +1,11 @@
 ---
 home: true
-title: Snpdcfg
+title: pastSeagull
 heroImage: /logo.jpg
-heroText: Snpdcfg
+heroText: pastSeagull
 tagline: 一个没有灵魂的稻草人
 features:
 - title: 
   details: 
-footer: MIT Licensed | Copyright © 2020-present snpdcfg
+footer: MIT Licensed | Copyright © 2020-present pastSeagull
 ---

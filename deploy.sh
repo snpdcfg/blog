@@ -17,13 +17,13 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:snpdcfg/snpdcfg.github.io.git master
-# git push -f https://${access_token}@github.com/snpdcfg/snpdcfg.github.io.git master
+# git push -f git@github.com:pastSeagull/pastSeagull.github.io.git master
+# git push -f https://${access_token}@github.com/pastSeagull/pastSeagull.github.io.git master
 
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:snpdcfg/blog.git master:gh-pages
-git push -f https://${access_token}git@github.com/snpdcfg/blog.git master:gh-pages
+# git push -f git@github.com:pastSeagull/blog.git master:gh-pages
+git push -f https://${access_token}git@github.com/pastSeagull/blog.git master:gh-pages
 
 
 cd -
